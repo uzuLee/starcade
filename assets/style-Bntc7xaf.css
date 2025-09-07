@@ -1,0 +1,1 @@
+@keyframes wiggle{0%,to{transform:rotate(-1.2deg)}50%{transform:rotate(1.2deg)}}.wiggle-active,#root.wiggle-active,.arcade-machine.wiggle-active{animation:wiggle var(--wiggle-duration, .8s) ease-in-out infinite;will-change:transform}
